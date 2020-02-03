@@ -6,7 +6,7 @@ module.exports = {
     connection: {
       host: '127.0.0.1',
       user: '',
-      password: '',
+      password: '12345',
       port: '5432',
       database: 'grpc_products',
     },
